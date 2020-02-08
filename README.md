@@ -6,7 +6,7 @@
 
 ## Important
 
-- Please download the export of the project notebook in: <a id="raw-url" href="https://github.com/jsleung1/dl_project2_dog_classification/blob/master/report.html" download="report.html">report.html</a> or <a id="raw-url2" href="https://github.com/jsleung1/dl_project2_dog_classification/blob/master/report.pdf" download="report.pdf">report.pdf</a>.
+Please download the export of the project notebook in: <a id="raw-url" href="https://github.com/jsleung1/dl_project2_dog_classification/blob/master/report.html" download="report.html">report.html</a> or <a id="raw-url2" href="https://github.com/jsleung1/dl_project2_dog_classification/blob/master/report.pdf" download="report.pdf">report.pdf</a>.
 
 ## Project Overview
 
